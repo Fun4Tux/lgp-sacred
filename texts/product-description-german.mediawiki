@@ -1,0 +1,90 @@
+==Preview==
+<p>Sacred Gold entf&uuml;hrt jeden Action-Rollenspiel-Fan in ein spannendes, komplexes und abwechslungsreiches Abenteuer.</p>
+
+==Text==
+<p><strong>Das Spiel</strong></p>
+<p>Sacred Gold entf&uuml;hrt jeden Action-Rollenspiel-Fan in ein spannendes, komplexes und abwechslungsreiches Abenteuer.</p>
+<p><strong>Acht komplett unterschiedliche Charaktere</strong></p>
+<p>Bek&auml;mpfen Sie Ihre Feinde als Gladiator, Magier, Dunkelelf, Waldelfin, Seraphim, Vampirin, D&auml;monin oder als Zwerg. Jeder dieser acht komplett unterschiedlichen Charaktere besitzt seine speziellen und individuellen F&auml;higkeiten.</p>
+<p><strong>Kampf, Waffen und Zauberspr&uuml;che</strong></p>
+<p>Erlernen Sie immer neue Kampftechniken und schmieden Sie Ihre eigenen einzigartigen Waffen. Schaffen Sie Ihre individuellen Angriffs-Combos aus Ihren Lieblingswaffen und Zauberspr&uuml;chen.</p>
+<p><strong>Multiplayer-Action</strong></p>
+<p>Spielen Sie im Netzwerk oder online, entweder die gesamte Kampagne, das uneingeschr&auml;nkte, freie Spiel oder aber gegen Freunde - Player vs. Player.</p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/sacred-trailer-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong>Allgemeine Informationen zum Spiel</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe</td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung</td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch</td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Spiel</td>
+<td>Englisch. Mit Kniffen (Anleitung verf&uuml;gbar) kann auch Deutsch und Franz&ouml;sisch nachger&uuml;stet werden. Dies wird aber nicht offiziell unterst&uuml;tzt.</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td>keine Demo verf&uuml;gbar</td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/sacred/" target="_blank">Updates f&uuml;r Sacred</a></td>
+</tr>
+<tr>
+<td>Zustand</td>
+<td>fabrikneu</td>
+</tr>
+<tr>
+<td>Lieferumfang</td>
+<td>DVD, Anleitung und Karte in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Minimale Systemanforderungen</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor</td>
+<td>1.0 GHz x86</td>
+</tr>
+<tr>
+<td>Grafikkarte</td>
+<td>hardwarebeschleunigte 3D-Grafikkarte mit 32MB Ram und korrekt installierten, funktionsf&auml;higen Treibern&nbsp;</td>
+</tr>
+<tr>
+<td>Hauptspeicher</td>
+<td>256 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher</td>
+<td>3.7 GB</td>
+</tr>
+<tr>
+<td>Soundkarte</td>
+<td>ALSA oder OSS kompatibel</td>
+</tr>
+<tr>
+<td>Laufwerk</td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem</td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>

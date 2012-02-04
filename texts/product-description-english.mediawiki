@@ -1,0 +1,84 @@
+==Preview==
+<p>Welcome to 'Ancaria', Sacred's huge game world.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>In his fortress of Shaddar-Nur, the necromancer Shaddar, a pariah of the Band of Mages from Mystdale Castle, plans his triumphant return to the world of Ancaria. To strengthen his magic powers, he summons a Sakkara Demon, whose power he will absorb himself. These Sakkara Demons rule over those damned to rot in hell, the undead. Not since the Era of the Gods have any of these creatures set foot in Ancaria, not since the Seraphim army drove them back to their dimension during the Wars of the Gods.<br /><br />However, Shaddar's experiment fails. The Sakkara Demon escapes and turns on his summoner...<br /><br />In the south of the Kingdom, the village of Bellevue is beset by robbers and slave traders sent by the Sakkara Sect to find suitable victims for their unholy magic rituals. At the same time, the Kingdom is infiltrated by Goblins, forerunners of the Orcs of Khorad-Nur. <br />Under the command of Sergeant Treville, a loyal veteran of Prince Valor, the heroes first fight in the lands bordering the Orcish wastelands against attacks by the Goblins and the Orcs, who are leaving their desert in hordes and venturing ever deeper into the Kingdom of the dying King Aarnum.<br /><br />When you have sorted all that out, the story continues in the included game, Sacred: Underworld, whereyou set out on an epic quest to the very gates of hell itself.<br /><br /></p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/sacred-trailer-en.ogg"></source> Your browser does not support the video tag! Go and get a <a href="http://www.mozilla-europe.org/de/firefox/">good one</a>!</video></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English. Can be changed to French and German with some quirks, thought not official supported. Will provide a howto on request.</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td>none</td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/sacred/" target="_blank">Updates for Sacred</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>DVD-Rom, manual and map in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>1.0 GHz x86</td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Hardware Accelerated 3D Graphics card with 32 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>256 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>3.7 GB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p style="text-align: center;">GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
