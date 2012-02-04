@@ -39,7 +39,7 @@
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/sacred/" target="_blank">Updates f&uuml;r Sacred</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/sacred/" target="_blank">Updates f&uuml;r Sacred</a></td>
 </tr>
 <tr>
 <td>Zustand</td>
